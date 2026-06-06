@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hussnain Ahmad<br><br>I am a Computer Science Undergraduate at Air University, Islamabad, specializing in software engineering, mobile applications, and AI workflow automations. <br><br>I enjoy building backend systems with Node.js and Python, developing Android applications using Java and Kotlin, and creating automated workflows to solve real-world problems.
+# Hussnain Ahmad<br><br>I am a Computer Science Undergraduate at Air University, Islamabad, specializing in software engineering
 
 
 ## 🌐 Socials:
