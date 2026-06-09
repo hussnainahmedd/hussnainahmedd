@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hussnain Ahmad<br><br>I am a Computer Science Undergraduate at Air University, Islamabad, specializing in software engineering
+# 💫 I'm Hussnain Ahmad
+
 
 
 ## 🌐 Socials:
