@@ -1,51 +1,60 @@
-![Developer banner](assets/hero.webp)
+<div align="center">
 
-# Hi, I'm Hussnain Ahmad 👋
+# Hussnain Ahmad
 
-**BSCS student at Air University, Islamabad** — I learn by building and shipping. My interests sit at the intersection of **AI** and **web development**, and most of my code is aimed at making something people can actually use.
+**Computer Science Student · Full-Stack Developer · AI Builder**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hussnain.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnain-ahmad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha7886899@gmail.com)
 
-## 🚀 What I'm Building
-
-| Project | What it does |
-|---|---|
-| **Zevqyn** | AI-powered platform (Python RAG + WordPress) that helps students build resumes, prepare quizzes, and create portfolios |
-| **3D Portfolio** | Interactive Next.js + React Three Fiber portfolio — [live](https://hussnainportfolio.vercel.app/) |
-| **Hasttore** | Live e-commerce store — [visit](https://hastore.42web.io/) |
-| **BloodLink** | Blood donation platform — React Native/Expo app + web, with AI-assisted donor matching (private repo, in development) |
+</div>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm a BSCS undergraduate at **Air University, Islamabad**, Pakistan. I learn by building and shipping — my work sits at the intersection of **AI** and **web/mobile development**, and I care about making software people can actually use.
+
+- 🔭 Currently exploring: AI-powered applications, RAG systems & mobile development
+- 🌱 Learning: advanced React Native, LLM application design
+- 💬 Ask me about: Python, TypeScript, React, Expo, Firebase, RAG pipelines
+- 📍 Based in: Islamabad, Pakistan
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · Java · C++ · HTML/CSS
-
-**Frameworks & Libraries:** React · Next.js · React Native · Expo · Node.js · Flutter · Tailwind CSS · WordPress
-
-**Platforms & Tools:** Firebase · Vercel · GitHub · Figma
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=hussnainahmedd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hussnain's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=hussnainahmedd&theme=dark&hide_border=false" alt="Hussnain's contribution streak" />
-</p>
+![Hussnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussnainahmedd&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnainahmedd&layout=compact&theme=tokyonight)
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hussnainahmedd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Hussnain's top languages" />
-</p>
-
----
+</div>
 
 ## 📫 Get in Touch
 
-- **Email:** [ha7886899@gmail.com](mailto:ha7886899@gmail.com)
-- **Location:** Islamabad, Pakistan
+- 📧 **Email:** ha7886899@gmail.com
+- 💼 **LinkedIn:** [Hussnain Ahmad](https://www.linkedin.com/in/hussnain-ahmad)
+- 🌐 **Portfolio:** [portfolio-hussnain.vercel.app](https://portfolio-hussnain.vercel.app/)
 
-Open to collaboration, internships, and interesting problems in AI and web. Feel free to reach out.
+---
+
+<div align="center">
+
+*Building in public, one project at a time.*
+
+</div>
