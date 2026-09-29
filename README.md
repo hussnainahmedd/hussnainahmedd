@@ -5,7 +5,6 @@
 **Computer Science Student · Full-Stack Developer · AI Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hussnain.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussnain-ahmad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha7886899@gmail.com)
 
 </div>
@@ -48,7 +47,6 @@ I'm a BSCS undergraduate at **Air University, Islamabad**, Pakistan. I learn by 
 ## 📫 Get in Touch
 
 - 📧 **Email:** ha7886899@gmail.com
-- 💼 **LinkedIn:** [Hussnain Ahmad](https://www.linkedin.com/in/hussnain-ahmad)
 - 🌐 **Portfolio:** [portfolio-hussnain.vercel.app](https://portfolio-hussnain.vercel.app/)
 
 ---
