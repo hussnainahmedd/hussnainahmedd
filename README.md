@@ -24,6 +24,7 @@ I'm a BSCS undergraduate (5th semester) at **Air University, Islamabad**, Pakist
 
 | Project | What it is |
 |---|---|
+| 🩸 [BloodLink](https://github.com/hussnainahmedd/bloodlink) | **Now open source** — emergency blood-donor matching for Pakistan (Expo / React Native / TypeScript). Frontend v1 done; Firebase backend open for contributors, with `good first issue` & `hacktoberfest` issues ready |
 | [PocketHisaab](https://github.com/hussnainahmedd/pockethisaab) | Udhaar ledger + expense tracker — React Native / Expo, 100% offline with on-device SQLite |
 | [Zevqyn](https://github.com/hussnainahmedd/zevqyn) · [backend](https://github.com/hussnainahmedd/zevqyn-backend) | AI tools for students — CVs, quiz prep & portfolios, powered by a Python RAG backend |
 | [Code Quality Dashboard](https://github.com/hussnainahmedd/code-quality-dashboard) | Analyze GitHub repositories and visualize code metrics |
@@ -33,7 +34,9 @@ I'm a BSCS undergraduate (5th semester) at **Air University, Islamabad**, Pakist
 
 ## 🌍 Open Source
 
-Contributing to open source — first PR merged in **freeCodeCamp**, with work in review at **twenty**, **Apache ShenYu Dashboard**, and **DocsGPT**.
+I maintain **[BloodLink](https://github.com/hussnainahmedd/bloodlink)** as an open-source project — contributors welcome, start with issue [#1](https://github.com/hussnainahmedd/bloodlink/issues/1).
+
+I also contribute to open source — first PR merged in **freeCodeCamp**, with work in review at **twenty**, **usememos/memos**, **mealie**, **Apache ShenYu Dashboard**, and **DocsGPT**.
 
 ## 🎓 Coursework
 
