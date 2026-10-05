@@ -1,69 +1,27 @@
 <div align="center">
 
-# Hussnain Ahmad
-
-**Computer Science Student · Full-Stack Developer · AI Builder**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hussnain.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ha7886899@gmail.com)
+![Intro](./assets/hero.svg?v=1)
+![About](./assets/about-life.svg?v=1)
+![Stack](./assets/stack.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=1)
+![Connect](./assets/connect.svg?v=1)
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a BSCS undergraduate (5th semester) at **Air University, Islamabad**, Pakistan. I learn by building and shipping — my work sits at the intersection of **AI** and **web/mobile development**, and I care about making software people can actually use.
-
-- 🔭 Currently exploring: AI-powered applications, RAG systems & mobile development
-- 🌱 Learning: advanced React Native, LLM application design
-- 💬 Ask me about: Python, TypeScript, React, Expo, RAG pipelines
-- 📍 Based in: Islamabad, Pakistan
-
-## 🚀 What I'm Building
+## 🚀 Featured projects
 
 | Project | What it is |
 |---|---|
-| 🩸 [BloodLink](https://github.com/hussnainahmedd/bloodlink) | **Now open source** — emergency blood-donor matching for Pakistan (Expo / React Native / TypeScript). Frontend v1 done; Firebase backend open for contributors, with `good first issue` & `hacktoberfest` issues ready |
-| [PocketHisaab](https://github.com/hussnainahmedd/pockethisaab) | Udhaar ledger + expense tracker — React Native / Expo, 100% offline with on-device SQLite |
-| [Zevqyn](https://github.com/hussnainahmedd/zevqyn) · [backend](https://github.com/hussnainahmedd/zevqyn-backend) | AI tools for students — CVs, quiz prep & portfolios, powered by a Python RAG backend |
-| [Code Quality Dashboard](https://github.com/hussnainahmedd/code-quality-dashboard) | Analyze GitHub repositories and visualize code metrics |
-| [JazzCash Gateway](https://github.com/hussnainahmedd/jazzcash-gateway) | JazzCash payment gateway integration |
-| [FaceVision-AI](https://github.com/hussnainahmedd/FaceVision-AI) | Python computer-vision experiments |
-| [Jarvis](https://github.com/hussnainahmedd/Pyhton-AI-Jarvis-) | A Python voice assistant |
+| [**BloodLink**](https://github.com/hussnainahmedd/bloodlink) | AI-powered blood-donor matching platform — Android, iOS & web from one codebase. |
+| [**Zevqyn**](https://zevqyn.dev) | AI research workspace: RAG over your documents, cited answers, research → portfolio pipeline. |
+| [**PocketHisaab**](https://github.com/hussnainahmedd/pockethisaab) | Offline-first expense & udhaar ledger for Android — 100% on-device, zero cost. |
 
-## 🌍 Open Source
+## 📫 Connect
 
-I maintain **[BloodLink](https://github.com/hussnainahmedd/bloodlink)** as an open-source project — contributors welcome, start with issue [#1](https://github.com/hussnainahmedd/bloodlink/issues/1).
-
-I also contribute to open source — first PR merged in **freeCodeCamp**, with work in review at **twenty**, **usememos/memos**, **mealie**, **Apache ShenYu Dashboard**, and **DocsGPT**.
-
-## 🎓 Coursework
-
-[AI Lab 01](https://github.com/hussnainahmedd/ai-lab-01) · [AI Lab 02](https://github.com/hussnainahmedd/ai-lab-02) · [AI Lab 03](https://github.com/hussnainahmedd/ai-lab-03) · [Full-Stack Lab 04](https://github.com/hussnainahmedd/full-stack-lab-04)
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-## 📫 Get in Touch
-
-- 📧 **Email:** ha7886899@gmail.com
-- 🌐 **Portfolio:** [portfolio-hussnain.vercel.app](https://portfolio-hussnain.vercel.app/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/hussnainn](https://www.linkedin.com/in/hussnainn)
+- 🌐 Portfolio: [https://hussnainportfolio.vercel.app/](https://hussnainportfolio.vercel.app/)
+- 💬 Discord: [https://discord.gg/U3AVwBzz](https://discord.gg/U3AVwBzz)
+- ✉️ Email: [ha7886899@gmail.com](mailto:ha7886899@gmail.com)
 
 ---
-
-<div align="center">
-
-*Building in public, one project at a time.*
-
-</div>
+<sub>Profile built with ♥ — animated SVG, zero JavaScript, zero external requests.</sub>
