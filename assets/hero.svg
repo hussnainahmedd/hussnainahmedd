@@ -35,7 +35,7 @@
  <rect class="hero-cursor" x="446" y="106" width="14" height="26" fill="#9fe8b8"/>
 </g>
 <g class="hero-rise">
- <text x="84" y="228" font-size="104" font-weight="700" fill="#f2f5fb" letter-spacing="2">HUSSNain</text>
+ <text x="84" y="228" font-size="104" font-weight="700" fill="#f2f5fb" letter-spacing="2">HUSSNAIN</text>
  <text x="88" y="268" font-size="34" font-weight="700" fill="#8b93a7" letter-spacing="14">AHMAD</text>
 </g>
 <text class="hero-role r0" x="90" y="318" font-size="30" font-weight="700" fill="#247bff">Full-Stack Developer</text><text class="hero-role r1" x="90" y="318" font-size="30" font-weight="700" fill="#ff354f">Mobile App Developer</text><text class="hero-role r2" x="90" y="318" font-size="30" font-weight="700" fill="#247bff">AI Engineer</text><text class="hero-role r3" x="90" y="318" font-size="30" font-weight="700" fill="#ff354f">Open-Source Contributor</text>
