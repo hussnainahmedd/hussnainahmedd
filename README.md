@@ -20,6 +20,7 @@
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/hussnainn](https://www.linkedin.com/in/hussnainn)
 - 🌐 Portfolio: [https://hussnainportfolio.vercel.app/](https://hussnainportfolio.vercel.app/)
+- 📸 Instagram: [https://www.instagram.com/hussnain._.ahmadd/](https://www.instagram.com/hussnain._.ahmadd/)
 - 💬 Discord: [https://discord.gg/U3AVwBzz](https://discord.gg/U3AVwBzz)
 - ✉️ Email: [ha7886899@gmail.com](mailto:ha7886899@gmail.com)
 
